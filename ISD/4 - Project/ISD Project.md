@@ -37,7 +37,7 @@ tags:
 > [!info]- Week 1
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
-> - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
+> - [x] [CloneHolocron](_sharedContent/CloneHolocron.md)
 > - [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Fork & Clone Project|Fork & Clone Project]]
 > #### Theory
 > - [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Characters|Characters]]

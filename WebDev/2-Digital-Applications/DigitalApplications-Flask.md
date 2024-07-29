@@ -21,7 +21,11 @@ Submissions are due **11:59pm Friday** each week.
 
 ### Week 1
 ![[semesterCalendarS2#School Events - Week 1]] 
+#### Video
 
+![https://youtu.be/BNpE9kGOL3o](https://youtu.be/BNpE9kGOL3o)
+
+![https://youtu.be/E22avFJkxR4](https://youtu.be/E22avFJkxR4)
 #### Class Tasks
 - [ ] [Clone Holocron](/_sharedContent/CloneHolocron.md)
 
@@ -43,7 +47,9 @@ Submit the assigned Google Doc with the following information:
 
 ### Week 2
 ![[semesterCalendarS2#School Events - Week 2]] 
+#### Video
 
+![https://youtu.be/UAeLuI6xGvo](https://youtu.be/UAeLuI6xGvo)
 #### Class Tasks
 N/A
 #### Theory
@@ -51,6 +57,9 @@ N/A
 #### Practical
 - [ ] [Todo List](/WebDev/_shared/Projects/ANH/todoList.md)
 
+#### Submission
+Submit the assigned Google Doc with the following information:
+- [ ] Screenshots/Gif of TODO list working
 
 ### Week 3 - Assessment Week
  ![[semesterCalendarS2#School Events - Week 3]]

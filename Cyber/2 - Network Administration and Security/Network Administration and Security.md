@@ -18,8 +18,8 @@ tags:
 > - [x] [CloneHolocron](_sharedContent/CloneHolocron.md)
 > - [x] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Accept%20Assignment.md)
 > #### Theory
-> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
-> - [ ] [Technical Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Technical%20Requirements.md)
+> - [x] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
+> - [x] [Technical Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Technical%20Requirements.md)
 > #### Practical
 > N/A
 

@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "accentColor": "#ff0000",
   "cssTheme": "GitHub Theme",
   "theme": "obsidian",
+=======
+  "accentColor": "",
+  "cssTheme": "Blue Topaz",
+  "theme": "moonstone",
+>>>>>>> 6b142a874cb35472670900f904fef79c1c3e338d
   "enabledCssSnippets": [
     "holocron"
   ]

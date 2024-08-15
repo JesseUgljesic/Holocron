@@ -1,4 +1,4 @@
-The project will have the following technical requirements
+                     The project will have the following technical requirements
 
 - [ ] Raspberry Pi Servers
 	- [ ] Domain Controller

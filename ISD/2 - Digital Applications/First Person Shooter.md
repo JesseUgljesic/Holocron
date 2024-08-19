@@ -24,7 +24,11 @@ tags:
 > [!info]- Week 1
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
+<<<<<<< HEAD
 > - [x] [CloneHolocron](_sharedContent/CloneHolocron.md)
+=======
+> - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
+>>>>>>> 96c09babf5098f4bc3a6c17c59fe9228c51e0672
 > - [ ] [Technical Analysis - First Person Shooters](ISD/2%20-%20Digital%20Applications/_topics/theory/Technical%20Analysis%20-%20First%20Person%20Shooters.md)
 > - [ ] [Project Timeline](ISD/2%20-%20Digital%20Applications/_topics/theory/Project%20Timeline.md)
 > #### Theory
@@ -33,7 +37,12 @@ tags:
 > - [ ] [Project Context](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Project%20Context.md)
 > #### Practical
 > - [ ] [Accept FPS Assignment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Accept%20FPS%20Assignment.md)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 96c09babf5098f4bc3a6c17c59fe9228c51e0672
 > - [ ] Open Game in Godot 4.2.2
+
 > - [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
 > - [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
 

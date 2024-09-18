@@ -102,7 +102,12 @@ tags:
 > [!info]- Week 8
 > ![[semesterCalendarS2#School Events - Week 8]]
 > #### Class Tasks
-> N/A
+> [Assessment Documentation](obsidian://open?vault=Holocron&file=ISD%2F4%20-%20Project%2F2024S2%2FAssessment%202%20-%202024S2)
+>Development Process scaffold has been added. With the scaffold it should be very easy to write out this section to be up to date this week.
+>Development Process should be fully written by end of week 9 so start now and get ahead<br>
+>[VET Competency](https://classroom.google.com/u/2/c/NjQ5OTU5NDgxMDQw/a/NzEwNDU3NzEwMjI3/details)  
+This week your documentation task is to complete the first section of this VET Competency. Gather evidence from either the project, communication with the client (Ryan), or from the Job Board and collate it in the correct space.
+Section 1 should be completed by end of week 8
 > #### Theory
 > N/A
 > #### Practical
@@ -111,7 +116,10 @@ tags:
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> N/A
+> - [ ] [VET Competencies](https://classroom.google.com/c/NjQ5OTU5NDgxMDQw/a/NzEwNDU3NzEwMjI3/details)
+> 	- By the end of this week this competency should be entirely complete. Ensure you have all of your evidence added and are tagging Ryan in the document so that he can confirm that the **Client only** sections have been completed.
+> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+> 	- You should have the development process section drafted and ready to submit at the end of this week. Jacob will be reviewing and providing feedback on this section.
 > #### Theory
 > N/A
 > #### Practical
@@ -120,7 +128,11 @@ tags:
 > [!info]- Week 10
 > ![[semesterCalendarS2#School Events - Week 10]]
 > #### Class Tasks
-> N/A
+> - [ ] VET Competency
+> 	- Ensure that you have at least done competency [# ICTSAS305 Provide ICT advice to clients](https://classroom.google.com/c/NjQ5OTU5NDgxMDQw/a/NzEwNDU3NzEwMjI3/details) by the end of term. There are more competencies on the Google Classroom that will help you towards your Cert III. At this stage in your college career you are more than capable of providing evidence for every single one.
+> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+> 	- You should be able to access the feedback on your development process section now. Review these and have a look at the feedback.
+> 	- The assessment documentation scaffold page has been populated for each section now. These should make it very easy to write up your assessment well before the due date. The whole document is due in week 12. With 3 weeks left (not including the school holidays) you have plenty of time to work through the linked page and write up your assessment documentation.
 > #### Theory
 > N/A
 > #### Practical
@@ -130,7 +142,8 @@ tags:
 > [!info]- Week 11
 > ![[semesterCalendarS2#School Events - Week 11]]
 > #### Class Tasks
-> N/A
+> - [ ] Finalise Project
+> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > #### Theory
 > N/A
 > #### Practical
@@ -138,7 +151,8 @@ tags:
 
 > [!danger]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
-> 
+> - [ ] Finalise Project
+> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
 > Worth 50%.
@@ -180,13 +194,19 @@ tags:
 > **Catchup Week** for assessments.
 > If you have completed assessment tasks, focus on your VET competencies.
 
+> [!info]- Week 17
+> ![[semesterCalendarS2#School Events - Week 17]]
+
+> [!info]- Week 18
+> ![[semesterCalendarS2#School Events - Week 18]]
+
 # Subject Information
 
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 50 % |
-|                  | Assessment 3 - 25 % |
+| Unit Outline     | Assessments                                                                      |
+| ---------------- | -------------------------------------------------------------------------------- |
+| Google Classroom | Assessment 1 - 25 %                                                              |
+|                  | [Assessment 2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
+|                  | Assessment 3 - 25 %                                                              |
 
 # Contact Details
 

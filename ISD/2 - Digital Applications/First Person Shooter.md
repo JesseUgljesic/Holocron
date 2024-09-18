@@ -111,8 +111,10 @@ tags:
 > [!info]- Week 8
 > ![[semesterCalendarS2#School Events - Week 8]]
 > #### Class Tasks
-> N/A
-> #### Theory
+> [Assessment Documentation](obsidian://open?vault=Holocron&file=ISD%2F2%20-%20Digital%20Applications%2F2024S2%2FAssessment%202%20-%202024S2)
+> Development Process scaffold has been added. With the scaffold it should be very easy to write out this section to be up to date this week.
+> Development Process should be fully written by end of week 9 so start now and get ahead
+> #### Theory 
 > N/A
 > #### Practical
 > - [ ] [Win Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Win%20Conditions.md)
@@ -121,7 +123,10 @@ tags:
 > [!info]- Week 9
 > ![[semesterCalendarS2#School Events - Week 9]]
 > #### Class Tasks
-> N/A
+> - [ ] [ VET Competencies](https://classroom.google.com/c/NjM5MjA3NTM2OTA3/a/NzExMjQ2MzUzMDc3/details)
+> 	- This week we will begin working through a VET Competency as well as working on Assessment documentation and the finishing touches of your games. You should aim to have this competency fully complete at the end of Week 10. Completing the competency is really simple and just takes a bit of time. Jacob will be going over how to complete the competency in great detail in Mondays class.
+> - [ ] [Assessment 2 - 2024S2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202%20-%202024S2.md)
+> 	- You should have the development process section drafted and ready to submit at the end of this week. Jacob will be reviewing and providing feedback on this section.
 > #### Theory
 > N/A
 > #### Practical
@@ -130,11 +135,23 @@ tags:
 > [!info]- Week 10
 > ![[semesterCalendarS2#School Events - Week 10]]
 > #### Class Tasks
-> - [ ] [VET](_sharedContent/VET.md)
+> - [ ] [VET](sharedContent/VET.md)
+> 	- Info about VET
+> - [ ] [VET Competency](https://classroom.google.com/c/NjM5MjA3NTM2OTA3/a/NzExMjQ2MzUzMDc3/details)
+> 	- Complete this VET Competency by end of this week
+>  - [ ] [Assessment 2 - 2024S2](Robotics/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+> 	- You should be able to access the feedback on your development process section now. Review these and have a look at the feedback.
+> 	- The assessment documentation scaffold page has been populated for each section now. These should make it very easy to write up your assessment well before the due date. The whole document is due in week 12. With 3 weeks left (not including the school holidays) you have plenty of time to work through the linked page and write up your assessment documentation.
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> There is no coding content assigned for this week. However any further development you make on your project will only assist in the writing of your assessment as you'll have more content to discuss in your technical report. If you have completed the VET Competency and are up to date on your assessment try to independently find something that you could complete and work towards it. If you come up with any others be sure to let Jacob or Ryan know, show us what you made and how you made it. Here are some suggestions:
+> - An additional level
+> - A boss enemy that spawns once all enemies are defeated
+> - Different kinds of bullets (perhaps a slow moving bullet that does more less damage but tracks towards enemies)
+> - Different win/loss conditions
+> - A level where you have no weapon but have to collect items in a time frame while dodging enemies.
+
 
 ## Term 4
 > [!info]- Week 11
@@ -150,7 +167,7 @@ tags:
 
 > [!danger]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
-> 
+> - [ ] [Assessment 2 - 2024S2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202%20-%202024S2.md)
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
 > Worth 50%.
@@ -192,16 +209,22 @@ tags:
 > **Catchup Week** for assessments.
 > If you have completed assessment tasks, focus on your VET competencies.
 
+> [!info]- Week 17
+> ![[semesterCalendarS2#School Events - Week 17]]
+
+> [!info]- Week 18
+> ![[semesterCalendarS2#School Events - Week 18]]
+
 
 
 
 # Subject Information
 
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 50 % |
-|                  | Assessment 3 - 25 % |
+| Unit Outline     | Assessments                                                                                     |
+| ---------------- | ----------------------------------------------------------------------------------------------- |
+| Google Classroom | Assessment 1 - 25 %                                                                             |
+|                  | [Assessment 2](ISD/2%20-%20Digital%20Applications/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
+|                  | Assessment 3 - 25 %                                                                             |
 
 ![[commonBlocks#Contact Details]]
 

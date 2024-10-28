@@ -12,7 +12,7 @@ For suggestions on how to structure your report, see this page:
 
 These are the details you are to cover in the topics in Assessment 2. More Specific Details will be added later in the document.
 
-![assessment2Topics](/WebDev/2-Digital-Applications/2024S2/_images/assessment2Topics.png)
+![[WebDev/2-Digital-Applications/_topics/_images/assessment2Topics.png]]
 
 ## Project Overview
 
@@ -39,6 +39,19 @@ Analyse what the outcomes of the project were, focusing on the end-user experien
 
 In this part, focus on the purpose of the project (not just the end product). For instance what learning outcomes could come from project etc.
 
+### Time Management
+For this part include a evidence showing the overall project plan and how the semester was broken up into stages.
+
+So, for example:
+
+> [!important] The timings or details may not be accurate. This is just an example.
+> 
+
+![[timeManagementOverview.png]]
+**Include Analysis**
+
+For more details, please see Work Skills.
+
 ## Code
 
 In this section, focus **only on the aspect identified**. 
@@ -55,6 +68,9 @@ Your goal for this section is to prove that you can analyse all the code through
 
 Include a diagram to explain the overall code base (`app.py`, `models.py`, `forms.py`, templates etc). One diagram you could include how `app.py` fits into the larger picture of the structure of a flask project, and the interactions of `app.py` with the other modules in the project.
 
+An example of this image could be similar to:
+
+![[MVC - Code Section.png]]
 
 Pick one route, preferably a complex route, and analyse that one. For example `resumeBuild` (there may be a more suitable option however):
 ![resumeBuildRoute](/WebDev/2-Digital-Applications/2024S2/_images/resumeBuildRoute.png)

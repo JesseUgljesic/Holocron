@@ -149,29 +149,33 @@ Section 1 should be completed by end of week 8
 > #### Practical
 > N/A
 
-> [!danger]- Week 12
+> [!info]- Week 12
 > ![[semesterCalendarS2#School Events - Week 12]]
-> - [ ] Finalise Project
-> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
-> **Assessment Due**
-> The task will be due Friday 11:59pm.
-> Worth 50%.
-> The task will be posted to Google Classroom, as per normal.
-
-> [!info]- Week 13
-> ![[semesterCalendarS2#School Events - Week 13]]
 > 
 > #### Class Tasks
-> - [ ] Vet Competencies
+> - [[ISD/4 - Project/2024S2/Assessment 2 - 2024S2|Assessment 2 - 2024S2]]
 > #### Theory
 > N/A
 > #### Practical
 > N/A
 
+<<<<<<< HEAD
+=======
+> [!danger]- Week 13
+> ![[semesterCalendarS2#School Events - Week 13]]
+> - [ ] Finalise Project
+> - [ ] [Assessment 2 - 2024S2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md)
+>
+> **Assessment Due**
+> The task will be due Friday 11:59pm.
+> Worth 50%.
+> The task will be posted to Google Classroom, as per normal.
+
+>>>>>>> f8304f8747d9c162c6a62253d835f961059181da
 > [!info]- Week 14
 > ![[semesterCalendarS2#School Events - Week 14]]
 > #### Class Tasks
-> N/A
+> - [ ]  [[ISD/4 - Project/2024S2/Assessment 3|Assessment 3]]
 > #### Theory
 > N/A
 > #### Practical
@@ -206,7 +210,7 @@ Section 1 should be completed by end of week 8
 | ---------------- | -------------------------------------------------------------------------------- |
 | Google Classroom | Assessment 1 - 25 %                                                              |
 |                  | [Assessment 2](ISD/4%20-%20Project/2024S2/Assessment%202%20-%202024S2.md) - 50 % |
-|                  | Assessment 3 - 25 %                                                              |
+|                  | [[ISD/4 - Project/2024S2/Assessment 3\|Assessment 3]] - 25 %                     |
 
 # Contact Details
 
